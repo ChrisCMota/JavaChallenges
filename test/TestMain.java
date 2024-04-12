@@ -1,4 +1,4 @@
-package jpnn.test;
+package jpnn.JavaChallenges.test;
 
 public class TestMain {
     public static void main(String[] args) {

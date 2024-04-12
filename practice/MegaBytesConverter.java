@@ -1,4 +1,4 @@
-package jpnn.practice;
+package jpnn.JavaChallenges.practice;
 
 public class MegaBytesConverter{
 

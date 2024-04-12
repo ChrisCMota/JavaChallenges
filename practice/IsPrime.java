@@ -1,4 +1,4 @@
-package jpnn.practice;
+package jpnn.JavaChallenges.practice;
 
 import java.util.ArrayList;
 import java.util.List;
