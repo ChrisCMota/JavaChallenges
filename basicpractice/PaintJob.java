@@ -1,4 +1,4 @@
-package jpnn.JavaChallenges.practice;
+package jpnn.JavaChallenges.basicpractice;
 
 public class PaintJob {
     public static int getBucketCount(double width, double height, double areaPerBucket, int extraBuckets) {

@@ -1,4 +1,4 @@
-package jpnn.JavaChallenges.practice;
+package jpnn.JavaChallenges.basicpractice;
 
 public class IsPalindrome {
     public static boolean isPalindrome(int number){
